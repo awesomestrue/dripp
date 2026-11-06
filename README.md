@@ -11,7 +11,7 @@ dripp — десктопный музыкальный плеер, который
 
 ## Стек
 
-Проект написан на JavaScript и TypeScript с использованием Electron. Работает на Windows, macOS и Linux.
+Проект написан на JavaScript и TypeScript с использованием Electron. Работает на Windows.
 
 ## Важно знать
 
